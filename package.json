@@ -1,0 +1,9 @@
+{
+  "name": "vue3",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21"
+  }
+}
